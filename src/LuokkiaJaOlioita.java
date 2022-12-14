@@ -6,7 +6,7 @@ public class LuokkiaJaOlioita {
 		
 		// oliot
 		Auto auto1 = new Auto("Lexus", "NX 450h", "hybrid");
-		
+		Auto auto2 = new Auto("BMW", "i4 eDrive", "diesel");
 		
 		// Tulosta tiedot -metodi
 		auto1.tulostaTiedot();

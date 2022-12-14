@@ -57,4 +57,10 @@ class Auto{
 		System.out.println(malli);
 		System.out.println(polttoaine);
 	}
+	
+	public void muutaTiedot(String merkki, String malli) {
+		System.out.println("AUTO:");
+		System.out.println(merkki);
+		System.out.println(malli);
+	}
 }

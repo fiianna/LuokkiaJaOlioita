@@ -13,7 +13,7 @@ public class LuokkiaJaOlioita {
 		//auto2.tulostaTiedot();
 		
 		// Muuta tiedot -metodi
-		
+		auto2.muutaTiedot("Volvo", "XC60");
 		
 		// Olioiden arvot
 		// auto.merkki = "Lexus";
